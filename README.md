@@ -2,6 +2,10 @@
 
 A web application built using **React** that allows users to search for recipes, view recipe details, and save their favorite recipes.
 
+## Screenshots
+
+![Food Recipe App Screenshot](images/img1.png)
+
 ## Features
 
 - **Search for recipes**: Find recipes based on the food item entered by the user.
