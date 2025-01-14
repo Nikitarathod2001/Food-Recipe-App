@@ -11,8 +11,8 @@ A web application built using **React** that allows users to search for recipes,
 ## Tech Stack
 
 - **Frontend**: React.js
-- **Styling**: CSS (or any CSS framework like Bootstrap, if used)
-- **State Management**: React's `useState` and `useEffect` hooks
+- **Styling**: Tailwind CSS
+- **State Management**: React's `useState`, `useContext` and `useEffect` hooks
 
 ## APIs
 
